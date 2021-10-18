@@ -4,7 +4,7 @@
 
 ## 📃 Sobre
 
-https://enzoxavier1001.github.io/AppMataMosquito/
+https://confident-turing-527ddc.netlify.app/
 
 App de lista de tarefas utilizando a biblioteca ReactJS com styled components e typescript. Basicamente a aplicação consiste no usuário adicionar tarefas para realizar ao longo do dia e assim que concluí-las clicar no checkbox para marcar como concluída.
 
